@@ -60,10 +60,10 @@ Every pentester knows the pain — Subfinder in one terminal, Nmap in another, B
 ## Screenshots
 
 ### Tool Arsenal — 100+ Security Tools
-![NEXUS-SEC Tool Arsenal](screenshots/tool-arsenal.png)
+![NEXUS-SEC Tool Arsenal](https://github.com/user-attachments/assets/6573cedc-015f-4a39-a744-b111823d4656)
 
 ### Security Assessment Report
-![NEXUS-SEC Report](screenshots/sample-report.png)
+![NEXUS-SEC Report](https://github.com/user-attachments/assets/587ea555-2c83-487d-a482-62d0e355ee6f)
 
 ---
 
